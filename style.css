@@ -1,0 +1,40 @@
+.img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+b{
+    color: purple;
+}
+
+span{
+    letter-spacing: 2px;
+}
+
+.test_image_and_result{
+    border-radius: 20px;
+}
+
+.first .second{
+background-color: white;
+border-radius: 10px;
+line-height: 2;
+}
+
+.mobilenet {
+    letter-spacing: 2px;
+}
+
+.google_lens{
+    letter-spacing: 2px;
+}
+
+#ending_h1 {
+    font-size: 18;
+}
+
+.copy_right_footer{
+    background-color: whitesmoke;
+}
